@@ -1,0 +1,846 @@
+Ticker,Name,Exchange,Category Name,Country
+ATLN.VX,Actelion Ltd,EBS,N/A,Switzerland
+ROG.VX,Roche Holding AG,EBS,N/A,Switzerland
+FHZN.SW,Flughafen Zürich AG,EBS,N/A,Switzerland
+AAPL.SW,Apple Inc.,EBS,N/A,Switzerland
+RO.SW,Roche Holding AG,EBS,N/A,Switzerland
+AMS.SW,ams AG,EBS,N/A,Switzerland
+ABBN.VX,ABB Ltd,EBS,N/A,Switzerland
+CSGN.VX,Credit Suisse Group AG,EBS,N/A,Switzerland
+VW-V.SW,Volkswagen Aktiengesellschaft,EBS,N/A,Switzerland
+DUFN.SW,Dufry AG,EBS,N/A,Switzerland
+BCGE.SW,Banque Cantonale de GenÃ¨ve SA,EBS,N/A,Switzerland
+VWS.SW,Vestas Wind Systems A/S,EBS,N/A,Switzerland
+OXDEX.SW,OXDEX.SW,EBS,N/A,Switzerland
+OXDB1.SW,OXDB1.SW,EBS,N/A,Switzerland
+OSR.SW,OSRAM Licht AG,EBS,N/A,Switzerland
+KU2.SW,KUKA Aktiengesellschaft,EBS,N/A,Switzerland
+HEN.SW,Henkel AG & Co. KGaA,EBS,N/A,Switzerland
+EVE.SW,Evolva Holding SA,EBS,N/A,Switzerland
+ZURN.VX,Zurich Insurance Group AG,EBS,N/A,Switzerland
+LONN.VX,Lonza Group Ltd,EBS,N/A,Switzerland
+GEBN.VX,Geberit AG,EBS,N/A,Switzerland
+UBSG.VX,UBS Group AG,EBS,N/A,Switzerland
+GIVN.VX,Givaudan SA,EBS,N/A,Switzerland
+USIN.SW,USIN.SW,EBS,N/A,Switzerland
+TEMN.SW,Temenos Group AG,EBS,N/A,Switzerland
+ROL.SW,Von Roll Holding AG,EBS,N/A,Switzerland
+MIKN.SW,Mikron Holding AG,EBS,N/A,Switzerland
+BALN.VX,Bâloise Holding AG,EBS,Property & Casualty Insurance,Switzerland
+ALLN.SW,Allreal Holding AG,EBS,N/A,Switzerland
+YPSN.SW,Ypsomed Holding AG,EBS,N/A,Switzerland
+VATN.SW,Valiant Holding AG,EBS,N/A,Switzerland
+VAHN.SW,Vaudoise Assurances Holding SA,EBS,N/A,Switzerland
+UBXN.SW,u-blox Holding AG,EBS,N/A,Switzerland
+SLOG.SW,SLOG.SW,EBS,N/A,Switzerland
+STMN.SW,Straumann Holding AG,EBS,N/A,Switzerland
+SOON.VX,Sonova Holding AG,EBS,N/A,Switzerland
+SMET.SW,Swmtl Holding AG in liquidation,EBS,N/A,Switzerland
+SLHN.VX,Swiss Life Holding AG,EBS,N/A,Switzerland
+SFZN.SW,Siegfried Holding AG,EBS,N/A,Switzerland
+SCHPE.SW,SCHPE.SW,EBS,N/A,Switzerland
+SCHP.VX,Schindler Holding AG,EBS,N/A,Switzerland
+SANN.SW,Santhera Pharmaceuticals Holding AG,EBS,N/A,Switzerland
+BAER.VX,Julius Baer Group Ltd.,EBS,N/A,Switzerland
+NIN.SW,"Nintendo Co., Ltd.",EBS,N/A,Switzerland
+JEN.SW,Jenoptik AG,EBS,N/A,Switzerland
+JFN.SW,Jungfraubahn Holding AG,EBS,N/A,Switzerland
+JKS.SW,"JinkoSolar Holding Co., Ltd.",EBS,N/A,Switzerland
+BCJ.SW,Banque Cantonale du Jura,EBS,N/A,Switzerland
+TOSH.SW,Toshiba Corporation,EBS,N/A,Switzerland
+JPM.SW,JPMorgan Chase & Co.,EBS,N/A,Switzerland
+GRKP.SW,Graubündner Kantonalbank,EBS,N/A,Switzerland
+SGKN.SW,St. Galler Kantonalbank AG,EBS,N/A,Switzerland
+BLKB.SW,Basellandschaftliche Kantonalbank,EBS,N/A,Switzerland
+OXKBC.SW,OXKBC.SW,EBS,N/A,Switzerland
+SDF.SW,K+S Aktiengesellschaft,EBS,N/A,Switzerland
+GMCR.SW,GMCR.SW,EBS,N/A,Switzerland
+SYNN.VX,Syngenta AG,EBS,N/A,Switzerland
+NESN.VX,Nestlé S.A.,EBS,N/A,Switzerland
+NOVN.VX,Novartis AG,EBS,N/A,Switzerland
+SREN.VX,Swiss Re Ltd,EBS,N/A,Switzerland
+GALN.VX,VIFOR PHARMA FINANZ AG,EBS,N/A,Switzerland
+CFR.VX,Compagnie Financière Richemont SA,EBS,N/A,Switzerland
+STL.SW,Statoil ASA,EBS,N/A,Switzerland
+OTI.SW,5ELEMENTS SA,EBS,N/A,Switzerland
+RY.SW,Royal Bank of Canada,EBS,N/A,Switzerland
+O2D.SW,Telefonica Dt H,EBS,N/A,Switzerland
+OXCON.SW,OXCON.SW,EBS,N/A,Switzerland
+POST.SW,Österreichische Post AG,EBS,N/A,Switzerland
+OXSY1.SW,OXSY1.SW,EBS,N/A,Switzerland
+OXDUE.SW,OXDUE.SW,EBS,N/A,Switzerland
+OXLXS.SW,OXLXS.SW,EBS,N/A,Switzerland
+OXCOP.SW,OXCOP.SW,EBS,N/A,Switzerland
+ORCL.SW,Oracle Corporation,EBS,N/A,Switzerland
+QCOM.SW,QUALCOMM Incorporated,EBS,N/A,Switzerland
+QIHU.SW,QIHU.SW,EBS,N/A,Switzerland
+QIA.SW,QIAGEN N.V.,EBS,N/A,Switzerland
+QSC.SW,QSC,EBS,N/A,Switzerland
+SGSN.VX,SGS SA,EBS,N/A,Switzerland
+SCMN.VX,Swisscom AG,EBS,N/A,Switzerland
+UHR.VX,The Swatch Group AG,EBS,N/A,Switzerland
+SCTY.SW,SolarCity,EBS,N/A,Switzerland
+PFE.SW,Pfizer Inc.,EBS,N/A,Switzerland
+MDLZ.SW,"Mondelez International, Inc.",EBS,N/A,Switzerland
+GOOGL.SW,Alphabet Inc.,EBS,N/A,Switzerland
+CL.SW,Colgate-Palmolive Company,EBS,N/A,Switzerland
+BHI.SW,Baker Hughes Incorporated,EBS,N/A,Switzerland
+VPB.SW,VPB.SW,EBS,N/A,Switzerland
+EPH.SW,Eastern Property Holdings Limited,EBS,N/A,Switzerland
+VALE.SW,Vale S.A.,EBS,N/A,Switzerland
+GSV.SW,Gold Standard Ventures Corp,EBS,N/A,Switzerland
+VFC.SW,V.F. Corporation,EBS,N/A,Switzerland
+VOE.SW,voestalpine,EBS,N/A,Switzerland
+VIB3.SW,Villeroy & Boch AG,EBS,N/A,Switzerland
+NEWN.SW,New Value AG,EBS,N/A,Switzerland
+VW.SW,Volkswagen Aktiengesellschaft,EBS,N/A,Switzerland
+VZ.SW,Verizon Communications Inc.,EBS,N/A,Switzerland
+DRW3.SW,Draegerwerk,EBS,N/A,Switzerland
+NEV.SW,New Venturetec AG,EBS,N/A,Switzerland
+KORS.SW,Michael Kors Holdings Limited,EBS,N/A,Switzerland
+VILN.SW,Villars Holding S.A.,EBS,N/A,Switzerland
+HEN3.SW,Henkel AG & Co. KGaA,EBS,N/A,Switzerland
+RWE3.SW,RWE Aktiengesellschaft,EBS,N/A,Switzerland
+PAH3.SW,Porsche Automobil Holding SE,EBS,N/A,Switzerland
+BCVN.SW,Banque Cantonale Vaudoise,EBS,N/A,Switzerland
+PWTN.SW,Panalpina World Transport (Holding) Ltd.,EBS,N/A,Switzerland
+SLW.SW,Wheaton Precious Metals Corp.,EBS,N/A,Switzerland
+WMN.SW,Walter Meier AG,EBS,N/A,Switzerland
+WBA.SW,"Walgreens Boots Alliance, Inc.",EBS,N/A,Switzerland
+DWNI.SW,Deutsche Wohnen SE,EBS,N/A,Switzerland
+WDI.SW,Wirecard AG,EBS,N/A,Switzerland
+OXGWI1.SW,OXGWI1.SW,EBS,N/A,Switzerland
+GWI1.SW,Gerry Weber International AG,EBS,N/A,Switzerland
+WKBN.SW,Banque Cantonale du Valais,EBS,N/A,Switzerland
+OXO1BC.SW,OXO1BC.SW,EBS,N/A,Switzerland
+O1BC.SW,XING AG,EBS,N/A,Switzerland
+XRX.SW,Xerox Corporation,EBS,N/A,Switzerland
+XOM.SW,Exxon Mobil Corporation,EBS,N/A,Switzerland
+XONE.SW,The ExOne Company,EBS,N/A,Switzerland
+YRI.SW,Yamana Gold Inc.,EBS,N/A,Switzerland
+YHOO.SW,Altaba Inc.,EBS,N/A,Switzerland
+YAR.SW,Yara International ASA,EBS,N/A,Switzerland
+YELP.SW,Yelp Inc.,EBS,N/A,Switzerland
+YY.SW,YY Inc.,EBS,N/A,Switzerland
+MY.SW,MY.SW,EBS,N/A,Switzerland
+YUM.SW,"Yum! Brands, Inc.",EBS,N/A,Switzerland
+YGE.SW,Yingli Green Energy Holding Company Limited,EBS,N/A,Switzerland
+ZWM.SW,Zwahlen & Mayr SA,EBS,N/A,Switzerland
+ZIL2.SW,ElringKlinger AG,EBS,N/A,Switzerland
+ZAG.SW,Zumtobel Group AG,EBS,N/A,Switzerland
+ZAL.SW,Zalando SE,EBS,N/A,Switzerland
+ZEHN.SW,Zehnder Group AG,EBS,N/A,Switzerland
+ZBH.SW,"Zimmer Biomet Holdings, Inc.",EBS,N/A,Switzerland
+GOLI.SW,Gold Fields Limited,EBS,N/A,Switzerland
+ZG.SW,Zuger Kantonalbank,EBS,N/A,Switzerland
+AFX.SW,Carl Zeiss Meditec AG,EBS,N/A,Switzerland
+OXAFX.SW,OXAFX.SW,EBS,N/A,Switzerland
+ZC.SW,Zodiac Aerospace,EBS,N/A,Switzerland
+ZMS.SW,ZMS.SW,EBS,N/A,Switzerland
+TIM.SW,ZEAL Network SE,EBS,N/A,Switzerland
+ZNGA.SW,Zynga Inc.,EBS,N/A,Switzerland
+ZUGN.SW,Zug Estates Holding AG,EBS,N/A,Switzerland
+ZUBN.SW,Züblin Immobilien Holding AG,EBS,N/A,Switzerland
+METN.SW,Metall Zug AG,EBS,N/A,Switzerland
+OXZO1.SW,OXZO1.SW,EBS,N/A,Switzerland
+ZO1.SW,zooplus,EBS,N/A,Switzerland
+ARL.SW,Aareal Bank AG,EBS,N/A,Switzerland
+AAM.SW,Anglo American plc,EBS,N/A,Switzerland
+AAD.SW,Amadeus FiRe AG,EBS,N/A,Switzerland
+AA.SW,ARCONICINC,EBS,N/A,Switzerland
+ABX.SW,Barrick Gold Corporation,EBS,N/A,Switzerland
+ABBV.SW,AbbVie Inc.,EBS,N/A,Switzerland
+ABBNE.SW,ABB LTD N 2. LINIE,EBS,N/A,Switzerland
+ABF.SW,Associated British Foods plc,EBS,N/A,Switzerland
+ABT.SW,Abbott Laboratories,EBS,N/A,Switzerland
+ANF.SW,Abercrombie & Fitch Co.,EBS,N/A,Switzerland
+ACUN.SW,Accu Holding AG,EBS,N/A,Switzerland
+ATLNE.SW,ACTELION N 2. Linie,EBS,N/A,Switzerland
+AC.SW,Accor SA,EBS,N/A,Switzerland
+ACA.SW,Credit Agricole,EBS,N/A,Switzerland
+AMD.SW,"Advanced Micro Devices, Inc.",EBS,N/A,Switzerland
+ADBE.SW,Adobe Systems Incorporated,EBS,N/A,Switzerland
+BABA.SW,Alibaba Group Holding Limited,EBS,N/A,Switzerland
+VJET.SW,Voxeljet AG,EBS,N/A,Switzerland
+TTM.SW,Tata Motors Limited,EBS,N/A,Switzerland
+DANG.SW,E-COMMERCE,EBS,N/A,Switzerland
+HQCL.SW,HQCL.SW,EBS,N/A,Switzerland
+BIDU.SW,"Baidu, Inc.",EBS,N/A,Switzerland
+ADXN.SW,Addex Therapeutics Ltd,EBS,N/A,Switzerland
+RESOL.SW,Renesola,EBS,N/A,Switzerland
+ADEN.VX,Adecco Group AG,EBS,N/A,Switzerland
+ADS.SW,Adidas AG,EBS,N/A,Switzerland
+TEVA.SW,Teva Pharmaceutical Industries Limited,EBS,N/A,Switzerland
+JASO.SW,"JA Solar Holdings Co., Ltd.",EBS,N/A,Switzerland
+ADENE.SW,Adecco Group AG,EBS,N/A,Switzerland
+NTES.SW,"NetEase, Inc.",EBS,N/A,Switzerland
+ADVN.SW,Adval Tech Holding AG,EBS,N/A,Switzerland
+TSL.SW,Trina Solar Limited,EBS,N/A,Switzerland
+AEVS.SW,Aevis Victoria SA,EBS,N/A,Switzerland
+AEM.SW,Agnico Eagle Mines Limited,EBS,N/A,Switzerland
+MTX.SW,MTU Aero Engines AG,EBS,N/A,Switzerland
+AGN.SW,AEGON N.V.,EBS,N/A,Switzerland
+AFGN.SW,ARBONIA AG,EBS,N/A,Switzerland
+AF.SW,Air France-KLM SA,EBS,N/A,Switzerland
+STLN.SW,Schmolz + Bickenbach AG,EBS,N/A,Switzerland
+IMPN.SW,Implenia AG,EBS,N/A,Switzerland
+BION.SW,BB Biotech AG,EBS,N/A,Switzerland
+TECN.SW,Tecan Group Ltd.,EBS,N/A,Switzerland
+SWTQ.SW,Schweiter Technologies AG,EBS,N/A,Switzerland
+SPSN.SW,Swiss Prime Site AG,EBS,N/A,Switzerland
+PM.SW,Phoenix Mecano AG,EBS,N/A,Switzerland
+LISN.SW,Chocoladefabriken Lindt & Sprüngli AG,EBS,N/A,Switzerland
+LIFE.SW,LifeWatch AG,EBS,N/A,Switzerland
+IPS.SW,Ipsos SA,EBS,N/A,Switzerland
+INRN.SW,Interroll Holding AG,EBS,N/A,Switzerland
+GBMN.SW,Goldbach Group AG,EBS,N/A,Switzerland
+GAV.SW,Carlo Gavazzi Holding AG,EBS,N/A,Switzerland
+GAM.SW,GAM Holding AG,EBS,N/A,Switzerland
+CYTN.SW,CYTN.SW,EBS,N/A,Switzerland
+BSLN.SW,Basilea Pharmaceutica AG,EBS,N/A,Switzerland
+BARN.SW,Barry Callebaut AG,EBS,N/A,Switzerland
+ALSN.SW,ALSO Holding AG,EBS,N/A,Switzerland
+DCN.SW,Datacolor AG,EBS,N/A,Switzerland
+CPGN.SW,Cham Paper Group Holding AG,EBS,N/A,Switzerland
+SAHN.SW,Schaffner Holding AG,EBS,N/A,Switzerland
+DESN.SW,Dottikon Es Holding AG,EBS,N/A,Switzerland
+ALPH.SW,Alpiq Holding AG,EBS,N/A,Switzerland
+MOBN.SW,Mobimo Holding AG,EBS,N/A,Switzerland
+SCHN.SW,Schindler Holding AG,EBS,N/A,Switzerland
+CLTN.SW,COLTENE Holding AG,EBS,N/A,Switzerland
+BIOEE.SW,BB Biotech AG,EBS,N/A,Switzerland
+ALPNE.SW,Alpine Select AG,EBS,N/A,Switzerland
+PSPN.SW,PSP Swiss Property AG,EBS,N/A,Switzerland
+LUKN.SW,Luzerner Kantonalbank AG,EBS,N/A,Switzerland
+EMSN.SW,EMS-Chemie Holding AG,EBS,N/A,Switzerland
+IFCN.SW,INFICON Holding AG,EBS,N/A,Switzerland
+STGN.SW,Starrag Group Holding AG,EBS,N/A,Switzerland
+ELMN.SW,Elma Electronic AG,EBS,N/A,Switzerland
+CALN.SW,Calida Holding AG,EBS,N/A,Switzerland
+SUN.SW,Sulzer Ltd,EBS,N/A,Switzerland
+MCHN.SW,MCH Group AG,EBS,N/A,Switzerland
+ORON.SW,ORIOR AG,EBS,N/A,Switzerland
+MBTN.SW,Meyer Burger Technology AG,EBS,N/A,Switzerland
+EMMN.SW,Emmi AG,EBS,N/A,Switzerland
+CASNE.SW,Castle Alternative Invest AG,EBS,N/A,Switzerland
+AGFB.SW,Agfa-Gevaert N.V.,EBS,N/A,Switzerland
+TIBN.SW,Bergbahnen Engelberg-Trübsee-Titlis AG,EBS,N/A,Switzerland
+CLXN.SW,CREALOGIX Holding AG,EBS,N/A,Switzerland
+HUBN.SW,Huber+Suhner AG,EBS,N/A,Switzerland
+VBSN.SW,IVF Hartmann Holding AG,EBS,N/A,Switzerland
+AGS.SW,ageas SA/NV,EBS,N/A,Switzerland
+ESUN.SW,Edisun Power Europe AG,EBS,N/A,Switzerland
+UHRN.SW,The Swatch Group AG,EBS,N/A,Switzerland
+BC.SW,Bank Cler AG,EBS,N/A,Switzerland
+GUR.SW,Gurit Holding AG,EBS,N/A,Switzerland
+BANB.SW,Bachem Holding AG,EBS,N/A,Switzerland
+CPHN.SW,CPH Chemie + Papier Holding AG,EBS,N/A,Switzerland
+RIEN.SW,Rieter Holding AG,EBS,N/A,Switzerland
+PEL.SW,PEL.SW,EBS,N/A,Switzerland
+BRKN.SW,Burkhalter Holding AG,EBS,N/A,Switzerland
+TOHN.SW,Tornos Holding AG,EBS,N/A,Switzerland
+BBN.SW,Bellevue Group AG,EBS,N/A,Switzerland
+PAXN.SW,Pax Anlage AG,EBS,N/A,Switzerland
+UHRNE.SW,SWATCH GROUP N 2. LINIE,EBS,N/A,Switzerland
+MASN.SW,MASN.SW,EBS,N/A,Switzerland
+CPEN.SW,Castle Private Equity AG,EBS,N/A,Switzerland
+ALPN.SW,Alpine Select AG,EBS,N/A,Switzerland
+EDHN.SW,Energiedienst Holding AG,EBS,N/A,Switzerland
+VET.SW,Vetropack Holding AG,EBS,N/A,Switzerland
+BEAN.SW,Belimo Holding AG,EBS,N/A,Switzerland
+REPI.SW,REPI.SW,EBS,N/A,Switzerland
+LLB.SW,Liechtensteinische Landesbank Aktiengesellschaft,EBS,N/A,Switzerland
+VONN.SW,Vontobel Holding AG,EBS,N/A,Switzerland
+TAMN.SW,Tamedia AG,EBS,N/A,Switzerland
+BAYN.SW,Bayer Aktiengesellschaft,EBS,N/A,Switzerland
+PEHN.SW,Private Equity Holding AG,EBS,N/A,Switzerland
+ALTN.SW,Altin AG,EBS,N/A,Switzerland
+LOHN.SW,Looser Holding AG,EBS,N/A,Switzerland
+MYRN.SW,Myriad Group AG,EBS,N/A,Switzerland
+BLIN.SW,BFW Liegenschaften AG,EBS,N/A,Switzerland
+IHSN.SW,IHSN.SW,EBS,N/A,Switzerland
+BCHN.SW,Burckhardt Compression Holding AG,EBS,N/A,Switzerland
+LISP.SW,Chocoladefabriken Lindt & Sprüngli AG,EBS,N/A,Switzerland
+BUCN.SW,Bucher Industries AG,EBS,N/A,Switzerland
+HELN.SW,Helvetia Holding AG,EBS,N/A,Switzerland
+ASCN.SW,Ascom Holding AG,EBS,N/A,Switzerland
+EEII.SW,EEII AG,EBS,N/A,Switzerland
+DAE.SW,Dätwyler Holding Inc.,EBS,N/A,Switzerland
+VLRT.SW,Valartis Group AG,EBS,N/A,Switzerland
+LINN.SW,Bank Linth LLB AG,EBS,N/A,Switzerland
+OFN.SW,Orell Füssli Holding AG,EBS,N/A,Switzerland
+FORN.SW,Forbo Holding AG,EBS,N/A,Switzerland
+REPP.SW,REPP.SW,EBS,N/A,Switzerland
+WIE.SW,Wienerberger AG,EBS,N/A,Switzerland
+COM.SW,COMMERZBANK I,EBS,N/A,Switzerland
+BVZN.SW,BVZ Holding AG,EBS,N/A,Switzerland
+CASN.SW,Castle Alternative Invest AG,EBS,N/A,Switzerland
+SHPNE.SW,SHPNE.SW,EBS,N/A,Switzerland
+SIN.SW,Siemens Aktiengesellschaft,EBS,N/A,Switzerland
+FORNE.SW,FORNE.SW,EBS,N/A,Switzerland
+STRN.SW,Schlatter Industries AG,EBS,N/A,Switzerland
+COTN.SW,Comet Holding AG,EBS,N/A,Switzerland
+KUNN.SW,KUONI N,EBS,N/A,Switzerland
+KARN.SW,Kardex AG,EBS,N/A,Switzerland
+GATE.SW,gategroup Holding AG,EBS,N/A,Switzerland
+VZN.SW,VZ Holding AG,EBS,N/A,Switzerland
+HUE.SW,Hügli Holding AG,EBS,N/A,Switzerland
+WARN.SW,Warteck Invest AG,EBS,N/A,Switzerland
+KOMN.SW,Komax Holding AG,EBS,N/A,Switzerland
+VALN.SW,Valora Holding AG,EBS,N/A,Switzerland
+AIXA.SW,Aixtron SE,EBS,N/A,Switzerland
+AI.SW,"Air Liquide, société anonyme",EBS,N/A,Switzerland
+AIRN.SW,Airopack Technology Group AG,EBS,N/A,Switzerland
+DAL.SW,"Delta Air Lines, Inc.",EBS,N/A,Switzerland
+AIG.SW,"American International Group, Inc.",EBS,N/A,Switzerland
+AIRE.SW,Airesis SA,EBS,N/A,Switzerland
+AIR.SW,Airbus SE,EBS,N/A,Switzerland
+AKZ.SW,Akzo Nobel N.V.,EBS,N/A,Switzerland
+ALU.SW,ALU.SW,EBS,N/A,Switzerland
+ALO.SW,Alstom SA,EBS,N/A,Switzerland
+MO.SW,"Altria Group, Inc.",EBS,N/A,Switzerland
+ALV.SW,Allianz SE,EBS,N/A,Switzerland
+AOX.SW,alstria,EBS,N/A,Switzerland
+ALXN.SW,"Alexion Pharmaceuticals, Inc.",EBS,N/A,Switzerland
+AMGN.SW,Amgen Inc.,EBS,N/A,Switzerland
+PAA.SW,Pan American Silver Corp.,EBS,N/A,Switzerland
+BATS.SW,Brit Amer Tobacco,EBS,N/A,Switzerland
+AXP.SW,American Express Company,EBS,N/A,Switzerland
+BAC.SW,Bank of America Corporation,EBS,N/A,Switzerland
+AMZN.SW,"Amazon.com, Inc.",EBS,N/A,Switzerland
+ANDR.SW,Andritz AG,EBS,N/A,Switzerland
+LLY.SW,Eli Lilly and Company,EBS,N/A,Switzerland
+SLB.SW,Schlumberger Limited,EBS,N/A,Switzerland
+AU.SW,AngloGold Ashanti Limited,EBS,N/A,Switzerland
+APGN.SW,APG|SGA SA,EBS,N/A,Switzerland
+MT.SW,ArcelorMittal,EBS,N/A,Switzerland
+SAZ.SW,STADA Arzneimittel Aktiengesellschaft,EBS,N/A,Switzerland
+ARYN.VX,ARYZTA AG,EBS,N/A,Switzerland
+ARIA.SW,"ARIAD Pharmaceuticals, Inc.",EBS,N/A,Switzerland
+ADM.SW,Archer-Daniels-Midland Company,EBS,N/A,Switzerland
+CADN.SW,Sociedad Comercial del Plata S.A.,EBS,N/A,Switzerland
+ARM.SW,ARM.SW,EBS,N/A,Switzerland
+UA.SW,Under Armour,EBS,N/A,Switzerland
+DIC.SW,DIC ASSET,EBS,N/A,Switzerland
+ASM.SW,Avino Silver & Gold Mines Ltd.,EBS,N/A,Switzerland
+ASML.SW,ASML Holding N.V.,EBS,N/A,Switzerland
+AZN.SW,AstraZeneca PLC,EBS,N/A,Switzerland
+ASG.SW,Assicurazioni Generali S.p.A.,EBS,N/A,Switzerland
+SBO.SW,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,EBS,N/A,Switzerland
+EBS.SW,Erste Group Bank AG,EBS,N/A,Switzerland
+VER.SW,Verbund,EBS,N/A,Switzerland
+OMV.SW,OMV Aktiengesellschaft,EBS,N/A,Switzerland
+BWO.SW,BUWOG AG,EBS,N/A,Switzerland
+IIA.SW,Immofinanz AG,EBS,N/A,Switzerland
+RBI.SW,Raiffeisen Bank International AG,EBS,N/A,Switzerland
+RHI.SW,RHI AG,EBS,N/A,Switzerland
+ROS.SW,Rosenbauer International AG,EBS,N/A,Switzerland
+ATS.SW,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,EBS,N/A,Switzerland
+MMK.SW,Mayr-Melnhof Karton AG,EBS,N/A,Switzerland
+CWI.SW,conwert ImmoInv,EBS,N/A,Switzerland
+O2C.SW,Petro Welt Technologies AG,EBS,N/A,Switzerland
+T.SW,AT&T,EBS,N/A,Switzerland
+TKA.SW,Telekom Austria Aktiengesellschaft,EBS,N/A,Switzerland
+LNZ.SW,Lenzing,EBS,N/A,Switzerland
+CS.SW,AXA SA,EBS,N/A,Switzerland
+SPR.SW,Axel Springer SE,EBS,N/A,Switzerland
+BPDG.SW,Banque Profil de Gestion SA,EBS,N/A,Switzerland
+BA.SW,The Boeing Company,EBS,N/A,Switzerland
+BALNE.SW,BALOISE N 2. LINIE,EBS,N/A,Switzerland
+BAX.SW,Baxter International Inc.,EBS,N/A,Switzerland
+BB.SW,BlackBerry Limited,EBS,N/A,Switzerland
+BBDB.SW,Bombardier Inc.,EBS,N/A,Switzerland
+BBY.SW,"Best Buy Co., Inc.",EBS,N/A,Switzerland
+BC8.SW,Bechtle AG,EBS,N/A,Switzerland
+BDX.SW,"Becton, Dickinson and Company",EBS,N/A,Switzerland
+BDT.SW,Bertrandt Aktiengesellschaft,EBS,N/A,Switzerland
+DBAN.SW,Deutsche Beteiligungs AG,EBS,N/A,Switzerland
+PROX.SW,Proximus,EBS,N/A,Switzerland
+BEKN.SW,Berner Kantonalbank AG,EBS,N/A,Switzerland
+BPOST.SW,bpost SA/NV,EBS,N/A,Switzerland
+BEI.SW,Beiersdorf,EBS,N/A,Switzerland
+OXBEI.SW,OXBEI.SW,EBS,N/A,Switzerland
+BELL.SW,Bell Food Group AG,EBS,N/A,Switzerland
+BLT.SW,BHP Billiton plc,EBS,N/A,Switzerland
+BHP.SW,BHP Billiton AU,EBS,N/A,Switzerland
+HEB.SW,HEB.SW,EBS,N/A,Switzerland
+OXGBF.SW,OXGBF.SW,EBS,N/A,Switzerland
+GBF.SW,Bilfinger SE,EBS,N/A,Switzerland
+BIIB.SW,Biogen Inc.,EBS,N/A,Switzerland
+BIO3.SW,Biotest Aktiengesellschaft,EBS,N/A,Switzerland
+SGMO.SW,"Sangamo Therapeutics, Inc.",EBS,N/A,Switzerland
+SBS.SW,STRATEC Biomed,EBS,N/A,Switzerland
+BKW.SW,BKW AG,EBS,N/A,Switzerland
+CBA.SW,Commonwealth Bank of Australia,EBS,N/A,Switzerland
+RBS.SW,The Royal Bank of Scotland Group plc,EBS,N/A,Switzerland
+BLK.SW,"BlackRock, Inc.",EBS,N/A,Switzerland
+BLD.SW,Ballard Power Systems Inc.,EBS,N/A,Switzerland
+BX.SW,BX.SW,EBS,N/A,Switzerland
+BMY.SW,Bristol-Myers Squibb Company,EBS,N/A,Switzerland
+BMPS.SW,BMPS.SW,EBS,N/A,Switzerland
+OXBMW.SW,OXBMW.SW,EBS,N/A,Switzerland
+BMW3.SW,Bayerische Motoren Werke Aktiengesellschaft,EBS,N/A,Switzerland
+BMW.SW,BMW I,EBS,N/A,Switzerland
+BNR.SW,Brenntag AG,EBS,N/A,Switzerland
+BNP.SW,BNP Paribas SA,EBS,N/A,Switzerland
+OXBNP.SW,OXBNP.SW,EBS,N/A,Switzerland
+BOBNN.SW,Bobst Group SA,EBS,N/A,Switzerland
+BVB.SW,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,EBS,N/A,Switzerland
+BOSS.SW,Hugo Boss AG,EBS,N/A,Switzerland
+EN.SW,Bouygues SA,EBS,N/A,Switzerland
+DB1.SW,Deutsche Boerse,EBS,N/A,Switzerland
+BOSN.SW,Bossard Holding AG,EBS,N/A,Switzerland
+BP.SW,BP p.l.c.,EBS,N/A,Switzerland
+BSKP.SW,Basler Kantonalbank,EBS,N/A,Switzerland
+BTO.SW,B2Gold Corp.,EBS,N/A,Switzerland
+BVN.SW,BVN.SW,EBS,N/A,Switzerland
+BYW6.SW,BayWa Aktiengesellschaft,EBS,N/A,Switzerland
+CPENE.SW,CASTLE PRIVATE N 2. LINIE,EBS,N/A,Switzerland
+CAI.SW,Canon Inc.,EBS,N/A,Switzerland
+CARLB.SW,Carlsberg A/S,EBS,N/A,Switzerland
+CAP.SW,Capgemini SE,EBS,N/A,Switzerland
+PTK.SW,PTK.SW,EBS,N/A,Switzerland
+CCO.SW,Cameco Corporation,EBS,N/A,Switzerland
+CDI.SW,Christian Dior SE,EBS,N/A,Switzerland
+CDE.SW,"Coeur Mining, Inc.",EBS,N/A,Switzerland
+CMBN.SW,Cembra Money Bank AG,EBS,N/A,Switzerland
+SCAB.SW,Svenska Cellulosa Aktiebolaget SCA (publ),EBS,N/A,Switzerland
+CWC.SW,CEWE Stiftung & Co. KGaA,EBS,N/A,Switzerland
+UN.SW,Unilever N.V.,EBS,N/A,Switzerland
+CELG.SW,Celgene Corporation,EBS,N/A,Switzerland
+CEV.SW,CENTROTEC Sustainable AG,EBS,N/A,Switzerland
+CERN.SW,Cerner Corporation,EBS,N/A,Switzerland
+CFT.SW,Compagnie Financière Tradition SA,EBS,N/A,Switzerland
+CGG.SW,CGGT,EBS,N/A,Switzerland
+LEON.SW,Leonteq AG,EBS,N/A,Switzerland
+HREN.SW,Romande Energie Holding SA,EBS,N/A,Switzerland
+EFGN.SW,EFG International AG,EBS,N/A,Switzerland
+DOKA.SW,dormakaba Holding AG,EBS,N/A,Switzerland
+CHD.SW,"Church & Dwight Co., Inc.",EBS,N/A,Switzerland
+SFPF1.SW,SFPF1.SW,EBS,N/A,Switzerland
+WIHN.SW,WISeKey International Holding AG,EBS,N/A,Switzerland
+LOGN.SW,Logitech International S.A.,EBS,N/A,Switzerland
+PLAN.SW,Plazza AG,EBS,N/A,Switzerland
+KNIN.VX,Kuehne + Nagel International AG,EBS,N/A,Switzerland
+PEDU.SW,Perrot Duval Holding S.A.,EBS,N/A,Switzerland
+SIK.VX,Sika AG,EBS,N/A,Switzerland
+PRFN.SW,Perfect Holding SA,EBS,N/A,Switzerland
+GMI.SW,Groupe Minoteries SA,EBS,N/A,Switzerland
+30318277.SW,30318277.SW,EBS,N/A,Switzerland
+SYNNE.SW,SYNGENTA N 2. Linie,EBS,N/A,Switzerland
+PUBN.SW,PUBN.SW,EBS,N/A,Switzerland
+UBSNE.SW,UBSNE.SW,EBS,N/A,Switzerland
+HBMN.SW,HBM Healthcare Investments AG,EBS,N/A,Switzerland
+SRCG.SW,Sunrise Communications Group AG,EBS,N/A,Switzerland
+OERL.SW,OC Oerlikon Corporation AG,EBS,N/A,Switzerland
+PGHN.SW,Partners Group Holding AG,EBS,N/A,Switzerland
+CICN.SW,Cicor Technologies Ltd.,EBS,N/A,Switzerland
+DOW.SW,The Dow Chemical Company,EBS,N/A,Switzerland
+SIAT1.SW,SIAT1.SW,EBS,N/A,Switzerland
+CVX.SW,Chevron,EBS,N/A,Switzerland
+NBEN.SW,nebag ag,EBS,N/A,Switzerland
+SCHNE.SW,SCHNE.SW,EBS,N/A,Switzerland
+SREA1.SW,UBS SW SWISSREAL ANR,EBS,N/A,Switzerland
+RSPF1.SW,RSPF1.SW,EBS,N/A,Switzerland
+SQN.SW,Swissquote Group Holding Ltd,EBS,N/A,Switzerland
+SGSNE.SW,SGS SA,EBS,N/A,Switzerland
+HBLN.SW,Hypothekarbank Lenzburg AG,EBS,N/A,Switzerland
+C.SW,Citigroup Inc.,EBS,N/A,Switzerland
+CIE.SW,Compagnie Internationale pour la Communication,EBS,N/A,Switzerland
+CSCO.SW,"Cisco Systems, Inc.",EBS,N/A,Switzerland
+CLN.VX,Clariant AG,EBS,N/A,Switzerland
+CMCSA.SW,Comcast Corporation,EBS,N/A,Switzerland
+CNC.SW,CNOOC Limited,EBS,N/A,Switzerland
+SEV.SW,SUEZ SA,EBS,N/A,Switzerland
+CRM.SW,"Salesforce.com, inc.",EBS,N/A,Switzerland
+CSIQ.SW,Canadian Solar Inc.,EBS,N/A,Switzerland
+EVD.SW,CTS Eventim,EBS,N/A,Switzerland
+CTSH.SW,Cognizant Technology Solutions Corporation,EBS,N/A,Switzerland
+OXEVD.SW,OXEVD.SW,EBS,N/A,Switzerland
+DAN.SW,Danone,EBS,N/A,Switzerland
+DAI.SW,Daimler AG,EBS,N/A,Switzerland
+DHR.SW,Danaher Corporation,EBS,N/A,Switzerland
+DSY.SW,Dassault Systèmes SE,EBS,N/A,Switzerland
+DBK.SW,Deutsche Bank Aktiengesellschaft,EBS,N/A,Switzerland
+DDD.SW,3D Systems Corporation,EBS,N/A,Switzerland
+DD.SW,E. I. du Pont de Nemours and Company,EBS,N/A,Switzerland
+CONT.SW,Continental Aktiengesellschaft,EBS,N/A,Switzerland
+HD.SW,"The Home Depot, Inc.",EBS,N/A,Switzerland
+OXSAP.SW,OXSAP.SW,EBS,N/A,Switzerland
+COMPG.SW,CompuGroup Medical Societas Europaea,EBS,N/A,Switzerland
+OXNOEJ.SW,OXNOEJ.SW,EBS,N/A,Switzerland
+PUM.SW,PUMA,EBS,N/A,Switzerland
+TLX.SW,Talanx Aktiengesellschaft,EBS,N/A,Switzerland
+TEG.SW,TAG Immobil,EBS,N/A,Switzerland
+NEMA.SW,Nemetschek SE,EBS,N/A,Switzerland
+MEO.SW,Ceconomy AG,EBS,N/A,Switzerland
+DGC.SW,Detour Gold Corporation,EBS,N/A,Switzerland
+DG.SW,VINCI SA,EBS,N/A,Switzerland
+DIS.SW,The Walt Disney Company,EBS,N/A,Switzerland
+COLOB.SW,Coloplast A/S,EBS,N/A,Switzerland
+NZYMB.SW,Novozymes A/S,EBS,N/A,Switzerland
+DKSH.SW,DKSH Holding Ltd.,EBS,N/A,Switzerland
+PNDORA.SW,Pandora A/S,EBS,N/A,Switzerland
+NOVOB.SW,Novo Nordisk A/S,EBS,N/A,Switzerland
+GIL.SW,DMG Mori Aktiengesellschaft,EBS,N/A,Switzerland
+PMOX.SW,DO Deu Office,EBS,N/A,Switzerland
+DPW.SW,Deutsche Post,EBS,N/A,Switzerland
+DRI.SW,Drillisch Aktiengesellschaft,EBS,N/A,Switzerland
+HDD.SW,Heidelberger Druckmaschinen Aktiengesellschaft,EBS,N/A,Switzerland
+DSM.SW,Koninklijke DSM N.V.,EBS,N/A,Switzerland
+OXLHA.SW,OXLHA.SW,EBS,N/A,Switzerland
+DTE.SW,Deutsche Telekom AG,EBS,N/A,Switzerland
+LHA.SW,Deutsche Lufthansa Aktiengesellschaft,EBS,N/A,Switzerland
+DUFN.VX,Dufry AG,EBS,N/A,Switzerland
+RDSA.SW,Royal Dutch Shell plc,EBS,N/A,Switzerland
+DUE.SW,Dürr Aktiengesellschaft,EBS,N/A,Switzerland
+EBAY.SW,eBay Inc.,EBS,N/A,Switzerland
+EDP.SW,"EDP - Energias de Portugal, S.A.",EBS,N/A,Switzerland
+RLD.SW,Edmond de Rothschild (Suisse) S.A.,EBS,N/A,Switzerland
+EDR.SW,Endeavour Silver Corp.,EBS,N/A,Switzerland
+EW.SW,Edwards Lifesciences Corporation,EBS,N/A,Switzerland
+EDF.SW,Electricité de France S.A.,EBS,N/A,Switzerland
+EI.SW,Essilor Intl,EBS,N/A,Switzerland
+SNE.SW,Schneider Electric S.E.,EBS,N/A,Switzerland
+LPK.SW,LPKF Laser & Electr,EBS,N/A,Switzerland
+GE.SW,General Electric Company,EBS,N/A,Switzerland
+ELD.SW,Eldorado Gold Corporation,EBS,N/A,Switzerland
+EMR.SW,Emerson Electric Co.,EBS,N/A,Switzerland
+EMC.SW,EMC,EBS,N/A,Switzerland
+FCEL.SW,"FuelCell Energy, Inc.",EBS,N/A,Switzerland
+NUS.SW,"Nu Skin Enterprises, Inc.",EBS,N/A,Switzerland
+EOAN.SW,E.ON SE,EBS,N/A,Switzerland
+EO.SW,Faurecia S.A.,EBS,N/A,Switzerland
+ERF.SW,Eurofins Scientific SE,EBS,N/A,Switzerland
+ERICB.SW,Telefonaktiebolaget LM Ericsson (publ),EBS,N/A,Switzerland
+ESRX.SW,Express Scripts Holding Company,EBS,N/A,Switzerland
+GET.SW,Groupe Eurotunnel SE,EBS,N/A,Switzerland
+DEQ.SW,Deutsche Euroshop,EBS,N/A,Switzerland
+EVT.SW,Evotec AG,EBS,N/A,Switzerland
+EVK.SW,Evonik Industries AG,EBS,N/A,Switzerland
+HLEE.SW,Highlight Event and Entertainment AG,EBS,N/A,Switzerland
+EXPE.SW,"Expedia, Inc.",EBS,N/A,Switzerland
+FB.SW,"Facebook, Inc.",EBS,N/A,Switzerland
+WFC.SW,Wells Fargo & Company,EBS,N/A,Switzerland
+FCX.SW,Freeport-McMoRan Inc.,EBS,N/A,Switzerland
+FDX.SW,FedEx Corporation,EBS,N/A,Switzerland
+FEYE.SW,"FireEye, Inc.",EBS,N/A,Switzerland
+RACE.SW,Ferrari N.V.,EBS,N/A,Switzerland
+FTON.SW,Feintool International Holding AG,EBS,N/A,Switzerland
+FFI.SW,Formulafirst Limited,EBS,N/A,Switzerland
+FMS.SW,First Majestic Silver Corp.,EBS,N/A,Switzerland
+NOKIA.SW,Nokia Corporation,EBS,N/A,Switzerland
+FME.SW,Fresenius Medical C,EBS,N/A,Switzerland
+FNV.SW,Franco-Nevada Corporation,EBS,N/A,Switzerland
+FNTN.SW,freenet AG,EBS,N/A,Switzerland
+FVI.SW,Fortuna Silver Mines Inc.,EBS,N/A,Switzerland
+WFM.SW,"Whole Foods Market, Inc.",EBS,N/A,Switzerland
+F.SW,Ford Motor Company,EBS,N/A,Switzerland
+FPE3.SW,Fuchs Petrolub SE,EBS,N/A,Switzerland
+FP.SW,Total,EBS,N/A,Switzerland
+MC.SW,LVMH Moët Hennessy Louis Vuitton S.E.,EBS,N/A,Switzerland
+ML.SW,Michelin,EBS,N/A,Switzerland
+MMB.SW,Lagardère SCA,EBS,N/A,Switzerland
+OXFME.SW,OXFME.SW,EBS,N/A,Switzerland
+KER.SW,Kering S.A.,EBS,N/A,Switzerland
+FR.SW,Valeo SA,EBS,N/A,Switzerland
+GOE.SW,Groupe Gorgé SA,EBS,N/A,Switzerland
+LOCAL.SW,Solocal Group S.A.,EBS,N/A,Switzerland
+RI.SW,Pernod Ricard SA,EBS,N/A,Switzerland
+FRA.SW,Fraport AG,EBS,N/A,Switzerland
+KN.SW,Natixis S.A.,EBS,N/A,Switzerland
+UBI.SW,Ubisoft Entertainment SA,EBS,N/A,Switzerland
+ENGI.SW,ENGIE SA,EBS,N/A,Switzerland
+POM.SW,Compagnie Plastic Omnium SA,EBS,N/A,Switzerland
+VIE.SW,Veolia Environnement S.A.,EBS,N/A,Switzerland
+ING.SW,Ingenico Group - GCS,EBS,N/A,Switzerland
+SAF.SW,Safran SA,EBS,N/A,Switzerland
+FRE.SW,Fresenius,EBS,N/A,Switzerland
+FSLR.SW,"First Solar, Inc.",EBS,N/A,Switzerland
+GFMN.SW,LUMX FUND N,EBS,N/A,Switzerland
+GAMEE.SW,GAM Holding AG,EBS,N/A,Switzerland
+GFJ.SW,GFJ.SW,EBS,N/A,Switzerland
+MRW.SW,Wm Morrison Supermarkets PLC,EBS,N/A,Switzerland
+TCG.SW,Thomas Cook Group plc,EBS,N/A,Switzerland
+SRP.SW,Serco Group plc,EBS,N/A,Switzerland
+RGSE.SW,RGSE.SW,EBS,N/A,Switzerland
+OXG1A.SW,OXG1A.SW,EBS,N/A,Switzerland
+G1A.SW,GEA Group Aktiengesellschaft,EBS,N/A,Switzerland
+GIS.SW,"General Mills, Inc.",EBS,N/A,Switzerland
+GEBNE.SW,GEBERIT N 2. LINIE,EBS,N/A,Switzerland
+GMT.SW,Gemalto N.V.,EBS,N/A,Switzerland
+OXGXI.SW,OXGXI.SW,EBS,N/A,Switzerland
+GLE.SW,Societe Generale Group,EBS,N/A,Switzerland
+HTM.SW,HTM.SW,EBS,N/A,Switzerland
+GM.SW,General Motors Company,EBS,N/A,Switzerland
+GXI.SW,Gerresheimer,EBS,N/A,Switzerland
+FI-N.SW,Georg Fischer AG,EBS,N/A,Switzerland
+GFK.SW,Gfk,EBS,N/A,Switzerland
+GILD.SW,"Gilead Sciences, Inc.",EBS,N/A,Switzerland
+GLJ.SW,Grenke AG,EBS,N/A,Switzerland
+SBB.SW,Sabina Gold & Silver Corp.,EBS,N/A,Switzerland
+GLUU.SW,Glu Mobile Inc.,EBS,N/A,Switzerland
+GSK.SW,GlaxoSmithKline plc,EBS,N/A,Switzerland
+GLW.SW,Corning Incorporated,EBS,N/A,Switzerland
+GLKBN.SW,Glarner Kantonalbank,EBS,N/A,Switzerland
+GMM.SW,Grammer,EBS,N/A,Switzerland
+GPRO.SW,"GoPro, Inc.",EBS,N/A,Switzerland
+GT.SW,The Goodyear Tire & Rubber Company,EBS,N/A,Switzerland
+KG.SW,Kinross Gold Corporation,EBS,N/A,Switzerland
+G.SW,Goldcorp Inc.,EBS,N/A,Switzerland
+GOB.SW,Compagnie de Saint-Gobain S.A.,EBS,N/A,Switzerland
+GS.SW,"The Goldman Sachs Group, Inc.",EBS,N/A,Switzerland
+PGM.SW,Premier Gold Mines Limited,EBS,N/A,Switzerland
+GPR.SW,Great Panther,EBS,N/A,Switzerland
+HAL.SW,Halliburton Company,EBS,N/A,Switzerland
+HAB.SW,Hamborner REIT AG,EBS,N/A,Switzerland
+HOG.SW,"Harley-Davidson, Inc.",EBS,N/A,Switzerland
+HNR1.SW,Hannover Rück SE,EBS,N/A,Switzerland
+HBMNE.SW,HBM N 2. LINIE,EBS,N/A,Switzerland
+HBH3.SW,Hornbach Holding AG & Co. KGaA,EBS,N/A,Switzerland
+KHC.SW,The Kraft Heinz Company,EBS,N/A,Switzerland
+OXHEN3.SW,OXHEN3.SW,EBS,N/A,Switzerland
+OXHEI.SW,OXHEI.SW,EBS,N/A,Switzerland
+HL.SW,Hecla Mining Company,EBS,N/A,Switzerland
+HEID.SW,HeidelbergCement,EBS,N/A,Switzerland
+HEI.SW,Heineken N.V.,EBS,N/A,Switzerland
+HMB.SW,H & M Hennes & Mauritz AB (publ),EBS,N/A,Switzerland
+HHFA.SW,Hamburger Hafen und Logistik Aktiengesellschaft,EBS,N/A,Switzerland
+HIAG.SW,HIAG Immobilien Holding AG,EBS,N/A,Switzerland
+LEN.SW,Lenovo Group Limited,EBS,N/A,Switzerland
+CHT.SW,China Mobile Limited,EBS,N/A,Switzerland
+SOONE.SW,SONOVA N 2. LINIE,EBS,N/A,Switzerland
+ISN.SW,Intershop Holding AG,EBS,N/A,Switzerland
+OXKD8.SW,OXKD8.SW,EBS,N/A,Switzerland
+HOCN.SW,Hochdorf Holding AG,EBS,N/A,Switzerland
+TTI.SW,Tom Tailor Holding AG,EBS,N/A,Switzerland
+MOZN.SW,mobilezone holding ag,EBS,N/A,Switzerland
+ONVO.SW,"Organovo Holdings, Inc.",EBS,N/A,Switzerland
+SLT.SW,Schaltbau Holding AG,EBS,N/A,Switzerland
+INH.SW,INDUS Hldg,EBS,N/A,Switzerland
+HPQ.SW,HP Inc.,EBS,N/A,Switzerland
+HYG.SW,Hydrogenics,EBS,N/A,Switzerland
+NHY.SW,Norsk Hydro ASA,EBS,N/A,Switzerland
+IMG.SW,IAMGOLD Corporation,EBS,N/A,Switzerland
+IBM.SW,International Business Machines Corporation,EBS,N/A,Switzerland
+MDT.SW,Medtronic,EBS,N/A,Switzerland
+IFX.SW,Infineon Technolog,EBS,N/A,Switzerland
+SHLTN.SW,SHL Telemedicine Ltd.,EBS,N/A,Switzerland
+LEG.SW,LEG Immobilien AG,EBS,N/A,Switzerland
+P1Z.SW,Patrizia Immobilien AG,EBS,N/A,Switzerland
+IMB.SW,Imperial Brands plc,EBS,N/A,Switzerland
+IONS.SW,"Ionis Pharmaceuticals, Inc.",EBS,N/A,Switzerland
+IPH.SW,Innate Pharma S.A.,EBS,N/A,Switzerland
+IRBT.SW,iRobot Corporation,EBS,N/A,Switzerland
+ISP.SW,Intesa Sanpaolo S.p.A.,EBS,N/A,Switzerland
+ISRG.SW,"Intuitive Surgical, Inc.",EBS,N/A,Switzerland
+TIT.SW,Telecom Italia S.p.A.,EBS,N/A,Switzerland
+NWRN.SW,Newron Pharmaceuticals S.p.A.,EBS,N/A,Switzerland
+SPM.SW,Saipem,EBS,N/A,Switzerland
+UCG.SW,UniCredit S.p.A.,EBS,N/A,Switzerland
+SKIN.SW,Cassiopea S.p.A.,EBS,N/A,Switzerland
+PRP.SW,Prada S.p.A,EBS,N/A,Switzerland
+ENI.SW,Eni S.p.A.,EBS,N/A,Switzerland
+IT.SW,ITALCEMENTI,EBS,N/A,Switzerland
+ENEL.SW,Enel SpA,EBS,N/A,Switzerland
+JCP.SW,"J. C. Penney Company, Inc.",EBS,N/A,Switzerland
+OXJEN.SW,OXJEN.SW,EBS,N/A,Switzerland
+JNJ.SW,Johnson & Johnson,EBS,N/A,Switzerland
+SOFB.SW,SoftBank Group Corp.,EBS,N/A,Switzerland
+SONC.SW,Sony Corporation,EBS,N/A,Switzerland
+MAELI.SW,Panasonic Corporation,EBS,N/A,Switzerland
+SHA.SW,Sharp Corporation,EBS,N/A,Switzerland
+TOYMO.SW,Toyota Motor Corporation,EBS,N/A,Switzerland
+JUNGH.SW,Jungheinrich Aktiengesellschaft,EBS,N/A,Switzerland
+KNDI.SW,"Kandi Technologies Group, Inc.",EBS,N/A,Switzerland
+KBC.SW,Kontron,EBS,N/A,Switzerland
+TKBP.SW,Thurgauer Kantonalbank,EBS,N/A,Switzerland
+KCO.SW,Klöckner & Co SE,EBS,N/A,Switzerland
+KGX.SW,KION GROUP AG,EBS,N/A,Switzerland
+KPO.SW,Koninklijke KPN N.V.,EBS,N/A,Switzerland
+KO.SW,The Coca-Cola Company,EBS,N/A,Switzerland
+KRN.SW,Krones AG,EBS,N/A,Switzerland
+OXSDFG.SW,OXSDFG.SW,EBS,N/A,Switzerland
+KUD.SW,Kudelski SA,EBS,N/A,Switzerland
+KWS.SW,KWS Saat SE,EBS,N/A,Switzerland
+LXS.SW,LANXESS Aktiengesellschaft,EBS,N/A,Switzerland
+LVS.SW,Las Vegas Sands Corp.,EBS,N/A,Switzerland
+LMN.SW,lastminute.com N.V.,EBS,N/A,Switzerland
+LHN.VX,LafargeHolcim Ltd,EBS,N/A,Switzerland
+LEO.SW,LEONI AG,EBS,N/A,Switzerland
+LECN.SW,Leclanché SA,EBS,N/A,Switzerland
+LEHN.SW,LEM Holding SA,EBS,N/A,Switzerland
+OXLING.SW,OXLING.SW,EBS,N/A,Switzerland
+LLOY.SW,Lloyds Banking Group plc,EBS,N/A,Switzerland
+LMT.SW,Lockheed Martin Corporation,EBS,N/A,Switzerland
+LNKD.SW,LNKD.SW,EBS,N/A,Switzerland
+COPN.SW,Cosmo Pharmaceuticals N.V.,EBS,N/A,Switzerland
+SFQ.SW,Saf-Holland S.A.,EBS,N/A,Switzerland
+RTL.SW,RTL Group SA,EBS,N/A,Switzerland
+MAN.SW,MAN SE,EBS,N/A,Switzerland
+MCD.SW,McDonald's Corporation,EBS,N/A,Switzerland
+MCP.SW,MCP.SW,EBS,N/A,Switzerland
+NCM.SW,Newcrest Mining Limited,EBS,N/A,Switzerland
+NEM.SW,Newmont Mining Corporation,EBS,N/A,Switzerland
+MLP.SW,MLP AG,EBS,N/A,Switzerland
+MMM.SW,3M Company,EBS,N/A,Switzerland
+TSLA.SW,"Tesla, Inc.",EBS,N/A,Switzerland
+MOLN.SW,Molecular Partners AG,EBS,N/A,Switzerland
+MOR.SW,Morphosys,EBS,N/A,Switzerland
+PMI.SW,Philip Morris International Inc.,EBS,N/A,Switzerland
+MS.SW,Morgan Stanley,EBS,N/A,Switzerland
+MRK.SW,"Merck & Co., Inc.",EBS,N/A,Switzerland
+MSFT.SW,Microsoft Corporation,EBS,N/A,Switzerland
+MUV2.SW,Muenchener Rueckver,EBS,N/A,Switzerland
+MU.SW,"Micron Technology, Inc.",EBS,N/A,Switzerland
+MYL1.SW,Mylan N.V.,EBS,N/A,Switzerland
+SNBN.SW,Swiss National Bank,EBS,N/A,Switzerland
+NDA.SW,Aurubis,EBS,N/A,Switzerland
+NDX1.SW,Nordex SE,EBS,N/A,Switzerland
+NDASEK.SW,Nordea Bank AB (publ),EBS,N/A,Switzerland
+NESNE.SW,NESNE.SW,EBS,N/A,Switzerland
+WAC.SW,Wacker Neuson SE,EBS,N/A,Switzerland
+NFLX.SW,"Netflix, Inc.",EBS,N/A,Switzerland
+NKE.SW,"NIKE, Inc.",EBS,N/A,Switzerland
+NIHN.SW,Norinvest Holding SA,EBS,N/A,Switzerland
+WIN.SW,Diebold Nixdorf AG,EBS,N/A,Switzerland
+PHI.SW,Koninklijke Philips N.V.,EBS,N/A,Switzerland
+INO.SW,ING Group,EBS,N/A,Switzerland
+TMO.SW,TomTom N.V.,EBS,N/A,Switzerland
+RDN.SW,Randstad Holding NV,EBS,N/A,Switzerland
+PN6.SW,PostNL N.V.,EBS,N/A,Switzerland
+SBM.SW,SBM Offshore N.V.,EBS,N/A,Switzerland
+NOEJ.SW,NORMA Group,EBS,N/A,Switzerland
+TEL.SW,Telenor ASA,EBS,N/A,Switzerland
+NOVNEE.SW,NOVARTIS N 2. LINIE,EBS,N/A,Switzerland
+NVDA.SW,NVIDIA Corporation,EBS,N/A,Switzerland
+ODHN.SW,Orascom Development Holding AG,EBS,N/A,Switzerland
+OR.SW,L'Oréal S.A.,EBS,N/A,Switzerland
+ORA.SW,Orange S.A.,EBS,N/A,Switzerland
+ORMP.SW,Oramed Pharmaceuticals Inc.,EBS,N/A,Switzerland
+OXDTE.SW,OXDTE.SW,EBS,N/A,Switzerland
+OXADS.SW,OXADS.SW,EBS,N/A,Switzerland
+OXDPW.SW,OXDPW.SW,EBS,N/A,Switzerland
+OXMRK.SW,OXMRK.SW,EBS,N/A,Switzerland
+OXRWE.SW,OXRWE.SW,EBS,N/A,Switzerland
+OXDBK.SW,OXDBK.SW,EBS,N/A,Switzerland
+OXFNTN.SW,OXFNTN.SW,EBS,N/A,Switzerland
+OXEOAN.SW,OXEOAN.SW,EBS,N/A,Switzerland
+OXFIE.SW,OXFIE.SW,EBS,N/A,Switzerland
+UNP.SW,Union Pacific Corporation,EBS,N/A,Switzerland
+UPS.SW,"United Parcel Service, Inc.",EBS,N/A,Switzerland
+PCLN.SW,The Priceline Group Inc.,EBS,N/A,Switzerland
+PEP.SW,"Pepsico, Inc.",EBS,N/A,Switzerland
+WPL.SW,Woodside Petroleum Ltd,EBS,N/A,Switzerland
+UG.SW,Peugeot S.A.,EBS,N/A,Switzerland
+PEAN.SW,Peach Property Group AG,EBS,N/A,Switzerland
+PFV.SW,Pfeiffer Vacuum Technology AG,EBS,N/A,Switzerland
+PG.SW,The Procter & Gamble Company,EBS,N/A,Switzerland
+VRTX.SW,Vertex Pharmaceuticals Incorporated,EBS,N/A,Switzerland
+REGN.SW,"Regeneron Pharmaceuticals, Inc.",EBS,N/A,Switzerland
+VRX.SW,"Valeant Pharmaceuticals International, Inc.",EBS,N/A,Switzerland
+PLUG.SW,Plug Power Inc.,EBS,N/A,Switzerland
+PSEC.SW,Prospect Capital Corporation,EBS,N/A,Switzerland
+PSM.SW,ProSiebenSat.1 Media SE,EBS,N/A,Switzerland
+PSAN.SW,PSI Software AG,EBS,N/A,Switzerland
+PUB.SW,Publicis Groupe S.A.,EBS,N/A,Switzerland
+PYPL.SW,"PayPal Holdings, Inc.",EBS,N/A,Switzerland
+RAA.SW,RATIONAL Aktiengesellschaft,EBS,N/A,Switzerland
+RB.SW,Reckitt Benckiser Group plc,EBS,N/A,Switzerland
+RCO.SW,Rémy Cointreau SA,EBS,N/A,Switzerland
+RHK.SW,Rhön-Klinikum Aktiengesellschaft,EBS,N/A,Switzerland
+RHM.SW,Rheinmetall AG,EBS,N/A,Switzerland
+RIO.SW,Rio Tinto Limited,EBS,N/A,Switzerland
+RIOP.SW,Rio Tinto plc,EBS,N/A,Switzerland
+RIGN.SW,Transocean Ltd.,EBS,N/A,Switzerland
+RNO.SW,Renault SA,EBS,N/A,Switzerland
+RSTI.SW,Rofin-Sinar Technologies Inc.,EBS,N/A,Switzerland
+RUS.SW,ENR Russia Invest SA,EBS,N/A,Switzerland
+RWE.SW,RWE I,EBS,N/A,Switzerland
+SAX.SW,Ströer SE & Co. KGaA,EBS,N/A,Switzerland
+SNDK.SW,SNDK.SW,EBS,N/A,Switzerland
+SBUX.SW,Starbucks Corporation,EBS,N/A,Switzerland
+SCZ.SW,SCZ.SW,EBS,N/A,Switzerland
+SCR.SW,SCOR SE,EBS,N/A,Switzerland
+TFS.SW,Thermo Fisher Scientific Inc.,EBS,N/A,Switzerland
+SFPN.SW,Swiss Finance & Property Investment AG,EBS,N/A,Switzerland
+SFSN.SW,SFS Group AG,EBS,N/A,Switzerland
+SGL.SW,SGL Carbon SE,EBS,N/A,Switzerland
+SW1.SW,SHW AG,EBS,N/A,Switzerland
+SSO.SW,SSR Mining Inc.,EBS,N/A,Switzerland
+SIX2.SW,Sixt SE,EBS,N/A,Switzerland
+SVM.SW,Silvercorp Metals Inc.,EBS,N/A,Switzerland
+SW.SW,"Sierra Wireless, Inc.",EBS,N/A,Switzerland
+S92.SW,SMA Solar Technology AG,EBS,N/A,Switzerland
+SOW.SW,Software Aktiengesellschaft,EBS,N/A,Switzerland
+SWVK.SW,SolarWorld Aktiengesellschaft,EBS,N/A,Switzerland
+SPLS.SW,"Staples, Inc.",EBS,N/A,Switzerland
+SRT3.SW,Sartorius,EBS,N/A,Switzerland
+SYK.SW,Stryker Corporation,EBS,N/A,Switzerland
+CAS.SW,Capital Stage AG,EBS,N/A,Switzerland
+SZU.SW,Südzucker AG,EBS,N/A,Switzerland
+SUR.SW,Surteco SE,EBS,N/A,Switzerland
+SU.SW,Suncor Energy Inc.,EBS,N/A,Switzerland
+SPWR.SW,SunPower Corporation,EBS,N/A,Switzerland
+SWEDA.SW,Swedbank AB (publ),EBS,N/A,Switzerland
+UHRE.SW,The Swatch Group AG,EBS,N/A,Switzerland
+SY1.SW,Symrise AG,EBS,N/A,Switzerland
+SYNNEE.SW,SYNNEE.SW,EBS,N/A,Switzerland
+SZG.SW,Salzgitter Aktiengesellschaft,EBS,N/A,Switzerland
+THO.SW,Tahoe Resources Inc.,EBS,N/A,Switzerland
+TTK.SW,TAKKT AG,EBS,N/A,Switzerland
+TXN.SW,Texas Instruments Incorporated,EBS,N/A,Switzerland
+TK.SW,ThyssenKrupp AG,EBS,N/A,Switzerland
+TWX.SW,Time Warner Inc.,EBS,N/A,Switzerland
+TLSN.SW,Telia Company AB,EBS,N/A,Switzerland
+TMUS.SW,"T-Mobile US, Inc.",EBS,N/A,Switzerland
+TRV.SW,TRV.SW,EBS,N/A,Switzerland
+TRIP.SW,"TripAdvisor, Inc.",EBS,N/A,Switzerland
+TSCO.SW,Tesco PLC,EBS,N/A,Switzerland
+TUI1.SW,TUI AG,EBS,N/A,Switzerland
+TWTR.SW,"Twitter, Inc.",EBS,N/A,Switzerland
+UIS.SW,Unisys Corporation,EBS,N/A,Switzerland
+UL.SW,Unibail-Rodamco SE,EBS,N/A,Switzerland
+UNH.SW,UnitedHealth Group Incorporated,EBS,N/A,Switzerland
+UTDI.SW,United Internet,EBS,N/A,Switzerland
+GRPN.SW,"Groupon, Inc.",EBS,N/A,Switzerland
+UTX.SW,United Technologies Corporation,EBS,N/A,Switzerland
+VLA.SW,Valneva SE,EBS,N/A,Switzerland
+VK.SW,Vallourec SA,EBS,N/A,Switzerland
+VCH.SW,Charles Vögele Holding AG,EBS,N/A,Switzerland
+VIV.SW,Vivendi SA,EBS,N/A,Switzerland
+V.SW,Visa Inc.,EBS,N/A,Switzerland
+VNA.SW,Vonovia,EBS,N/A,Switzerland
+VOS.SW,Vossloh AG,EBS,N/A,Switzerland
+VOD.SW,Vodafone Group Plc,EBS,N/A,Switzerland
+WCH.SW,Wacker Chemie AG,EBS,N/A,Switzerland
+WMT.SW,"Wal-Mart Stores, Inc.",EBS,N/A,Switzerland
+WYNN.SW,"Wynn Resorts, Limited",EBS,N/A,Switzerland
+AUTN.SW,Autoneum Holding AG,EBS,N/A,Switzerland
+BAP.SW,Groupe Baumgartner Holding S.A.,EBS,N/A,Switzerland
+BARC.SW,Barclays PLC,EBS,N/A,Switzerland
+BAS.SW,BASF SE,EBS,N/A,Switzerland
+B5A.SW,Bauer,EBS,N/A,Switzerland
+COK.SW,Cancom SE,EBS,N/A,Switzerland
+CA.SW,Carrefour SA,EBS,N/A,Switzerland
+CAT.SW,Caterpillar Inc.,EBS,N/A,Switzerland
+COP.SW,ConocoPhillips,EBS,N/A,Switzerland
+CON.SW,Conzzeta AG,EBS,N/A,Switzerland
+DE.SW,Deere & Company,EBS,N/A,Switzerland
+DEZ.SW,DEUTZ Aktiengesellschaft,EBS,N/A,Switzerland
+ENPH.SW,"Enphase Energy, Inc.",EBS,N/A,Switzerland
+FIE.SW,Fielmann AG,EBS,N/A,Switzerland
+HOT.SW,HOCHTIEF Aktiengesellschaft,EBS,N/A,Switzerland
+INVN.SW,"InvenSense, Inc.",EBS,N/A,Switzerland
+LIN.SW,Linde Aktiengesellschaft,EBS,N/A,Switzerland
+M5Z.SW,Manz AG,EBS,N/A,Switzerland
+MA.SW,Mastercard Incorporated,EBS,N/A,Switzerland
+MER.SW,Merck,EBS,N/A,Switzerland
+PARG.SW,Pargesa Holding SA,EBS,N/A,Switzerland
+SPCE.SW,Spice Private Equity AG,EBS,N/A,Switzerland
+SAN.SW,Sanofi,EBS,N/A,Switzerland
+SAP.SW,SAP SE,EBS,N/A,Switzerland
+SPEX.SW,SPEX.SW,EBS,N/A,Switzerland
+SPLK.SW,Splunk Inc.,EBS,N/A,Switzerland
+COMD.SW,comdirect bank Aktiengesellschaft,EBS,N/A,Switzerland
+INTC.SW,Intel Corporation,EBS,N/A,Switzerland

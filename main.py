@@ -15,15 +15,24 @@ from prophet.plot import plot_plotly
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
+# also change in config.toml
+primary_color = '#8A58F4'
+
 st.title('Rol Stock App')
 st.write('Personal Stock Management and Prediction Application')
 st.divider()
 
-# get all stock tickers
-tickers = pd.read_csv('tickers.csv')
+# get country and all stock tickers from that country
+country = (
+	'India', 'USA', 'Australia', 'Indonesia', 'Germany', 'France', 'Canada', 'Belgium', 'Argentina', 'United Kingdom', 'Malaysia', 'Netherlands', 'Switzerland', 'Taiwan', 'Norway', 'Sweden', 'Denmark', 'Austria', 'Brazil', 'Singapore', 'Mexico', 'Hong Kong', 'New Zealand', 'Spain', 'Ireland', 'Russia', 'Italy', 'Greece', 'Portugal', 'Israel', 'Turkey', 'Estonia', 'Thailand', 'Finland', 'Iceland', 'Latvia', 'South Korea', 'Lithuania', 'Qatar', 'China', 'Venezuela'
+)
+selected_country = st.selectbox('Country', country)
 
+country_csv = pd.read_csv("countries/" + str(selected_country) + ".csv")
+# country_csv = country_csv.set_index('Ticker')
 
-selected_stock = st.selectbox('Select a stock you want to analyse', tickers['Ticker'])
+selected_stock = st.selectbox('Select a stock you want to analyse', country_csv['Ticker'])
+
 # selected_stock = st.text_input('Select Stock', 'LT.NS')
 # selected_stock = selected_stock.upper()
 # period = ('1W', '1M', '3M', '6M', '1Y', '3Y', '5Y')
@@ -31,16 +40,19 @@ selected_stock = st.selectbox('Select a stock you want to analyse', tickers['Tic
 
 @st.cache_data
 def load_stockdata(ticker):
-    data = yf.download(ticker, START, TODAY)
-    data.reset_index(inplace=True)
-    return data
+	try:
+		data = yf.download(ticker, START, TODAY)
+	except:
+		st.write("Stock data unavailable. Choose another stock")
+	data.reset_index(inplace=True)
+	return data
 
 # Index
 # @st.cache_data
 # def load_index():
-    data = yf.download('^BSESN', START, TODAY)
-    data.reset_index(inplace=True)
-    return data
+# 	data = yf.download('^BSESN', START, TODAY)
+# 	data.reset_index(inplace=True)
+# 	return data
 
 #data_load_state = st.text("Loading data...")
 stock_data = load_stockdata(selected_stock)
@@ -55,14 +67,15 @@ def plot_raw_data():
 	# Trace graph
 	fig.add_trace(go.Scatter(x=stock_data['Date'], y=stock_data['Open'], name=selected_stock))
 	# fig.add_trace(go.Scatter(x=index_data['Date'], y=index_data['Open'], name="BSE: SENSEX"))
-
-	# ToolTip
-	# fig = go.bar(stock_data, x=stock_data.index, y=selected_stock)
-	
+	fig.update_traces(line_color = primary_color)
 	fig.layout.update(title_text=selected_stock + ": " +str(stock_data['Close'].iloc[-1]), xaxis_rangeslider_visible=True)
 	st.plotly_chart(fig, use_container_width=True)
 
-plot_raw_data()
+#plot graph with error handling
+try:
+	plot_raw_data()
+except:
+	st.write("Stock data unavailable. Try loading another stock")
 
 st.header(selected_stock + " Historial Data (Last Week)")
 
@@ -97,6 +110,7 @@ future_week = future_week.set_index('ds')
 st.write(future_week)
 
 forecasted_stock_chart = plot_plotly(m, forecast)
+forecasted_stock_chart.update_traces(line_color = primary_color)
 st.plotly_chart(forecasted_stock_chart, use_container_width=True)
 forecasted_stock_chart.layout.update(title_text=selected_stock + " Forecasted data", xaxis_rangeslider_visible=True)
 
