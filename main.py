@@ -19,9 +19,13 @@ st.title('Rol Stock App')
 st.write('Personal Stock Management and Prediction Application')
 st.divider()
 
-stocks = ('GOOG', 'AAPL', 'MSFT', 'GME')
-# selected_stock = st.selectbox('Select dataset for prediction', stocks)
-selected_stock = st.text_input('Select Stock', 'LT.NS')
+# get all stock tickers
+tickers = pd.read_csv('tickers.csv')
+
+
+selected_stock = st.selectbox('Select a stock you want to analyse', tickers['Ticker'])
+# selected_stock = st.text_input('Select Stock', 'LT.NS')
+# selected_stock = selected_stock.upper()
 # period = ('1W', '1M', '3M', '6M', '1Y', '3Y', '5Y')
 # time_period = st.selectbox('Select time period', period)
 
